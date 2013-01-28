@@ -1,1 +1,6 @@
 Redirect 301 /survey https://spreadsheets0.google.com/viewform?formkey=dE1sWll4OXN0bXpGcVhreUR4SDlCTXc6MQ
+
+<Directory .git>
+    order allow,deny
+    deny from all
+</Directory>
