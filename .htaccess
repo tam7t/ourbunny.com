@@ -1,4 +1,0 @@
-Redirect 301 /survey https://spreadsheets0.google.com/viewform?formkey=dE1sWll4OXN0bXpGcVhreUR4SDlCTXc6MQ
-
-RewriteEngine on
-RewriteRule .*\.git/.* - [R=404]
